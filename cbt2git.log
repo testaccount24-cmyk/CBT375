@@ -1,0 +1,18 @@
+2025-04-04 08:44:01.509569 - Received CBT.V508.FILE375.PDS from FILE375.XMI 
+2025-04-04 08:44:01.510616 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:44:01.510773 - Found $$AUTHOR.txt (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/$$AUTHOR
+2025-04-04 08:44:01.510925 - Found $$DOCM.txt (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/$$DOCM
+2025-04-04 08:44:01.511063 - Found @FILE375.txt (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/@FILE375
+2025-04-04 08:44:01.511191 - Found SMF06.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF06
+2025-04-04 08:44:01.511315 - Found SMF11.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF11
+2025-04-04 08:44:01.511448 - Found SMF11S.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF11S
+2025-04-04 08:44:01.511574 - Found SMF12.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF12
+2025-04-04 08:44:01.511694 - Found SMF13.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF13
+2025-04-04 08:44:01.511824 - Found SMF24.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF24
+2025-04-04 08:44:01.511948 - Found SMF25.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF25
+2025-04-04 08:44:01.512068 - Found SMF26.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF26
+2025-04-04 08:44:01.512188 - Found SMF26S.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF26S
+2025-04-04 08:44:01.512315 - Found SMF47.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF47
+2025-04-04 08:44:01.512437 - Found SMF49.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF49
+2025-04-04 08:44:01.512595 - Found SMF72.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF72
+2025-04-04 08:44:01.512723 - Found SMF72S.jcl (text/plain) in CBT.V508.FILE375.PDS, moved to PDS/SMF72S
